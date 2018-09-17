@@ -1,0 +1,30 @@
+C:\Users\windows_7\Desktop\exaA0334339\exaA0334339\bin\Debug\exaA0334339.exe.config
+C:\Users\windows_7\Desktop\exaA0334339\exaA0334339\bin\Debug\exaA0334339.exe
+C:\Users\windows_7\Desktop\exaA0334339\exaA0334339\bin\Debug\exaA0334339.pdb
+C:\Users\windows_7\Desktop\exaA0334339\exaA0334339\obj\Debug\exaA0334339.Form1.resources
+C:\Users\windows_7\Desktop\exaA0334339\exaA0334339\obj\Debug\exaA0334339.Properties.Resources.resources
+C:\Users\windows_7\Desktop\exaA0334339\exaA0334339\obj\Debug\exaA0334339.csproj.GenerateResource.Cache
+C:\Users\windows_7\Desktop\exaA0334339\exaA0334339\obj\Debug\exaA0334339.exe
+C:\Users\windows_7\Desktop\exaA0334339\exaA0334339\obj\Debug\exaA0334339.pdb
+C:\Users\windows_7\Desktop\exaA0334339\exaA0334339\obj\Debug\exaA0334339.csprojResolveAssemblyReference.cache
+C:\Users\J305\Desktop\exaA0334339-2015-05-12\exaA0334339\exaA0334339\bin\Debug\exaA0334339.exe.config
+C:\Users\J305\Desktop\exaA0334339-2015-05-12\exaA0334339\exaA0334339\obj\Debug\exaA0334339.exe
+C:\Users\J305\Desktop\exaA0334339-2015-05-12\exaA0334339\exaA0334339\obj\Debug\exaA0334339.pdb
+C:\Users\J305\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\bin\Debug\exaA0334339.exe.config
+C:\Users\J305\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.exe
+C:\Users\J305\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.pdb
+C:\Users\J305\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\bin\Debug\exaA0334339.exe
+C:\Users\J305\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\bin\Debug\exaA0334339.pdb
+C:\Users\J305\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.csprojResolveAssemblyReference.cache
+C:\Users\J305\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.Form1.resources
+C:\Users\J305\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.Properties.Resources.resources
+C:\Users\J305\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.csproj.GenerateResource.Cache
+C:\Users\windows_7\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\bin\Debug\exaA0334339.exe.config
+C:\Users\windows_7\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.exe
+C:\Users\windows_7\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.pdb
+C:\Users\windows_7\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\bin\Debug\exaA0334339.exe
+C:\Users\windows_7\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\bin\Debug\exaA0334339.pdb
+C:\Users\windows_7\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.csprojResolveAssemblyReference.cache
+C:\Users\windows_7\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.Form1.resources
+C:\Users\windows_7\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.Properties.Resources.resources
+C:\Users\windows_7\Desktop\exaA0334339-2015-05-12 - 複製\exaA0334339\exaA0334339\obj\Debug\exaA0334339.csproj.GenerateResource.Cache
